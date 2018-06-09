@@ -16,10 +16,12 @@ import { UserProvider } from '../providers/user-provider/user-provider';
 import { UtilProvider } from '../providers/utils';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyC2gX3jlrBugfnBPugX2p0U1XiSqXhrRgQ",
-  authDomain: "chat-app-1e137.firebaseapp.com",
-  databaseURL: "https://chat-app-1e137.firebaseio.com",
-  storageBucket: "chat-app-1e137.appspot.com",
+  apiKey: "AIzaSyAGhoHvLTlpOx9B4IlQmEtvm99FXOfs7Z8",
+  authDomain: "lustrequalquer.firebaseapp.com",
+  databaseURL: "https://lustrequalquer.firebaseio.com",
+  projectId: "lustrequalquer",
+  storageBucket: "lustrequalquer.appspot.com",
+  messagingSenderId: "984525064178"
 };
 
 const myFirebaseAuthConfig = {
